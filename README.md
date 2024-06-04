@@ -13,27 +13,28 @@ I like alliteration.
 
 ## Skill Ratings
 10 = Mastery
-### Operating Systems
+**Operating Systems**
 - Windows (8/10)
 - Linux (7/10)
 - Mac (5/10)
 
-### Interfaces
+**Interfaces**
 - Bash Terminal (6/10)
 - Powershell (2/10)
 
-### Code Editors
+**Code Editors**
 - Visual Studio Code (6/10)
 - Vim (5/10)
 - Nano (8/10)
 - Python IDLE (5/10)
 
-### Computer Languages
+**Coding Languages**
 - Bash Script (4/10)
 - Python (4/10)
 - HTML + CSS (5/10)
 - JavaScript (3/10)
+- Markdown (7/10)
 
-### APIs
+**APIs**
 - Django (2/10)
 - Node.js (3/10)
