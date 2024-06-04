@@ -3,7 +3,8 @@ I go by SeriousStoat,
 I would like to become a software engineer, with a particular focus on Python coding.
 This account will archive some of my work to better illustrate my knowledge and skill.
 
-**Currently Learning:** <u>Django Python API</u>
+**Currently Learning:**  
+Django Python API
 
 ## About Me
 My favorite linux distribution is Debian,  
@@ -13,6 +14,7 @@ I like alliteration.
 
 ## Skill Ratings
 10 = Mastery
+
 **Operating Systems**
 - Windows (8/10)
 - Linux (7/10)
