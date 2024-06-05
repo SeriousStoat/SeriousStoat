@@ -7,12 +7,13 @@ This account will archive some of my work to better illustrate my knowledge and 
 Django Python API
 
 ## About Me
-My favorite linux distribution is Debian,  
+My favorite linux distribution is Debian,
+My favorite high-level language is Python,
 I prefer function over flash- simple but robust,  
 I am a life-long learner,  
 I like alliteration.
 
-## Skill Ratings
+## Knowledge Ratings
 10 = Mastery
 
 **Operating Systems**
@@ -38,5 +39,29 @@ I like alliteration.
 - Markdown (7/10)
 
 **APIs**
-- Django (2/10)
-- Node.js (3/10)
+- Django (3/10)
+- Node.js (2/10)
+
+**MS Office**
+- Word (9/10)
+- Excel (7/10)
+- Powerpoint (9/10)
+
+**Database**
+- MySQL (3/10)
+- SQlite (3/10)
+- JSON (4/10)
+
+## Knowledge I Plan to Gain
+**Python Modules and APIs**
+- pyTorch
+- NumPy
+- Jupyter Notebook
+- PyLLaMa
+- Tensorflow / Keras
+
+**Coding Languages**
+- TypesScript
+- Ruby
+- Rust
+- Ubuntu/Debian Server Administration
