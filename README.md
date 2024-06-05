@@ -1,6 +1,7 @@
 # Welcome, 
 I go by SeriousStoat,  
-I would like to become a software engineer, with a particular focus on Python coding.
+I would like to become a software engineer.  
+I'm particularly interested in developing my knowledge and skill with Python coding.  
 This account will archive some of my work to better illustrate my knowledge and skill.
 
 **Currently Learning:**  
@@ -9,7 +10,7 @@ Django web framework for Python
 ## About Me
 My favorite linux distribution is Debian,  
 My favorite high-level language is Python,  
-I prefer function over flash- simple but robust,  
+I prefer function over flash,  
 I am a life-long learner,  
 I like alliteration.
 
