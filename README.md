@@ -64,4 +64,7 @@ I like alliteration.
 - TypeScript
 - Ruby
 - Rust
-- Ubuntu/Debian Server Administration
+
+**Administration**
+- Ubuntu/Debian Server
+- Raspberry Pi Server
