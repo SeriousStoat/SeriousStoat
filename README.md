@@ -4,7 +4,7 @@ I would like to become a software engineer, with a particular focus on Python co
 This account will archive some of my work to better illustrate my knowledge and skill.
 
 **Currently Learning:**  
-Django Python API
+Django web framework for Python
 
 ## About Me
 My favorite linux distribution is Debian,  
