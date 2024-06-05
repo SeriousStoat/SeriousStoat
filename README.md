@@ -61,7 +61,7 @@ I like alliteration.
 - Tensorflow / Keras
 
 **Coding Languages**
-- TypesScript
+- TypeScript
 - Ruby
 - Rust
 - Ubuntu/Debian Server Administration
