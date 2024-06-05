@@ -7,8 +7,8 @@ This account will archive some of my work to better illustrate my knowledge and 
 Django Python API
 
 ## About Me
-My favorite linux distribution is Debian,
-My favorite high-level language is Python,
+My favorite linux distribution is Debian,  
+My favorite high-level language is Python,  
 I prefer function over flash- simple but robust,  
 I am a life-long learner,  
 I like alliteration.
