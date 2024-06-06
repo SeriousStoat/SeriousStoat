@@ -1,4 +1,4 @@
-# Welcome, 
+# Welcome
 I go by SeriousStoat,  
 I am pursuing a career as a software engineer.  
 I'm particularly interested in developing my knowledge and skill with Python and related frameworks.  
