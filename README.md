@@ -1,13 +1,15 @@
 # Welcome, 
 I go by SeriousStoat,  
-I would like to become a software engineer.  
-I'm particularly interested in developing my knowledge and skill with Python coding.  
+I am pursuing a career as a software engineer.  
+I'm particularly interested in developing my knowledge and skill with Python and related frameworks.  
 This account will archive some of my work to better illustrate my knowledge and skill.
 
 **Currently Learning:**  
 Django web framework for Python
 
 ## About Me
+I have 13+ years experience programing industrial CNC machines.  
+I have 15+ years hobby experience with linux and open source software.  
 My favorite linux distribution is Debian,  
 My favorite high-level language is Python,  
 I prefer function over flash,  
