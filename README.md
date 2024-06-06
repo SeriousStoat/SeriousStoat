@@ -56,7 +56,7 @@ I like alliteration.
 - JSON (4/10)
 
 ## Knowledge I Plan to Gain
-**Python Modules and APIs**
+**Python Modules and Libraries**
 - pyTorch
 - NumPy
 - Jupyter Notebook
