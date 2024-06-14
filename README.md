@@ -34,16 +34,18 @@ I like alliteration.
 - Nano (8/10)
 - Python IDLE (5/10)
 
-**Coding Languages**
+**Coding Languages - Extensions**
 - Bash Script (4/10)
-- Python (4/10)
+- Python (5/10)
+    - Jupyter Notebook (2/10)
+    - NumPy (2/10)
+    - Django (4/10)
+
 - HTML + CSS (5/10)
 - JavaScript (3/10)
-- Markdown (7/10)
+    - Node.js (2/10)
 
-**APIs**
-- Django (3/10)
-- Node.js (2/10)
+- Markdown (7/10)
 
 **MS Office**
 - Word (9/10)
@@ -58,8 +60,6 @@ I like alliteration.
 ## Knowledge I Plan to Gain
 **Python Modules and Libraries**
 - pyTorch
-- NumPy
-- Jupyter Notebook
 - PyLLaMa
 - Tensorflow / Keras
 
