@@ -4,8 +4,9 @@ I am pursuing a career as a software engineer.
 I'm particularly interested in developing my knowledge and skill with Python and related frameworks.  
 This account will archive some of my work to better illustrate my knowledge and skill.
 
-**Currently Learning:**  
-Django web framework for Python
+**Currently Working On:**  
+Tkinter gui framework for Python
+- Machine Shop Calculator
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
@@ -21,12 +22,12 @@ I like alliteration.
 
 **Operating Systems**
 - Windows (8/10)
-- Linux (7/10)
+- Linux (8/10)
 - Mac (5/10)
 
 **Interfaces**
 - Bash Terminal (6/10)
-- Powershell (2/10)
+- Powershell (3/10)
 
 **Code Editors**
 - Visual Studio Code (6/10)
@@ -40,6 +41,7 @@ I like alliteration.
     - Jupyter Notebook (2/10)
     - NumPy (2/10)
     - Django (4/10)
+    - Tkinter & CustomTkinter (4/10)
 
 - HTML + CSS (5/10)
 - JavaScript (3/10)
