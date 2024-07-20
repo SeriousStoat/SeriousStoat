@@ -1,9 +1,9 @@
 # Welcome
 I go by SeriousStoat,  
 I am pursuing a career as a software engineer.  
-I'm particularly interested in developing my knowledge and skill with Python and related frameworks.
-I am also looking to build my skills in computer languages and DevOps methodologies more broadly.
-This account will archive some of my work to better illustrate my knowledge and skill.
+I'm particularly interested in developing my knowledge and skill with Python and related frameworks.  
+I am also looking to build my skills in computer languages and DevOps methodologies more broadly.  
+This account will archive some of my work to better illustrate my knowledge and skill.  
 See the list below for my self-ratings of what I know so far.
 
 **Currently Working On:**  
@@ -13,8 +13,8 @@ Tkinter gui framework for Python
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
 I have 15+ years hobby experience with linux and open source software.  
-I have a passion for problem solving and making things better.
-I am a self-motivated, life-long, learner.
+I have a passion for problem solving and making things better.  
+I am a self-motivated, life-long, learner.  
 I like alliteration.
 
 ## My Knowledge Ratings
