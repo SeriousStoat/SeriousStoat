@@ -7,8 +7,8 @@ This account will archive some of my work to better illustrate my knowledge and 
 See the list below for my self-ratings of what I know so far.
 
 **Currently Working On:**  
-Tkinter gui framework for Python
-- Machine Shop Calculator
+Java Chess Game
+- Chess Weasel
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
