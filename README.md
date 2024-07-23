@@ -7,8 +7,8 @@ This account will archive some of my work to better illustrate my knowledge and 
 See the list below for my self-ratings of what I know so far.
 
 **Currently Working On:**  
-Java Chess Game
-- Chess Weasel
+Java Game
+- PlatformerGame
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
