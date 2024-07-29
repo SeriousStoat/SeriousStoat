@@ -6,8 +6,7 @@ I am also looking to build my skills in computer languages and DevOps methodolog
 This account will archive some of my work to better illustrate my knowledge and skill.  
 See the list below for my self-ratings of what I know so far.
 
-**Currently Working On:**  
-Practicing Java
+**Currently Working On:**  Java
 - PlatformerGame
 
 ## About Me
@@ -44,7 +43,7 @@ I like alliteration.
     - Django (4/10)
     - Tkinter & CustomTkinter (5/10)
  
-- Java (2/10)
+- Java (3/10)
 
 - HTML + CSS (5/10)
 - JavaScript (3/10)
