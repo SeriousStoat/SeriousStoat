@@ -11,11 +11,17 @@ See the list below for my self-ratings of what I know so far.
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
-I have 15+ years hobby experience with linux and open source software.  
-My favorite Linux distro is Debian, and I enjoy living on the terminal.  
+I have 15+ years hobby experience with linux and open source software.
 I have a passion for problem solving and making things better.  
-I am a self-motivated, life-long, learner.  
-I like alliteration.
+I am a self-motivated, life-long, learner.
+
+Things I like:
+- Debian
+- Bash
+- NeoVim
+- Git
+- Birds
+- Alliteration
 
 ## My Knowledge Ratings
 10 = Mastery
