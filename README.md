@@ -11,7 +11,7 @@ See the list below for my self-ratings of what I know so far.
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
-I have 15+ years hobby experience with linux and open source software.
+I have 15+ years hobby experience with linux and open source software.  
 I have a passion for problem solving and making things better.  
 I am a self-motivated, life-long, learner.
 
@@ -32,12 +32,12 @@ Things I like:
 - Mac (5/10)
 
 **Interfaces**
-- Bash Terminal (6/10)
+- Bash Terminal (7/10)
 - Powershell (3/10)
 
 **Code Editors**
 - Visual Studio Code (6/10)
-- Vim (5/10)
+- Vim/NeoVim (6/10)
 - Nano (8/10)
 - Python IDLE (5/10)
 
@@ -49,7 +49,7 @@ Things I like:
     - Django (4/10)
     - Tkinter & CustomTkinter (5/10)
  
-- Java (3/10)
+- Java (4/10)
 
 - HTML + CSS (5/10)
 - JavaScript (3/10)
