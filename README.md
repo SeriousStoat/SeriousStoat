@@ -6,8 +6,8 @@ I am also looking to build my skills in computer languages and DevOps methodolog
 This account will archive some of my work to better illustrate my knowledge and skill.  
 See the list below for my self-ratings of what I know so far.
 
-**Currently Working On:**  Java
-- PlatformerGame
+**Currently Learning:**  Java  
+**Current Project:** Platformer Game
 
 ## About Me
 I have 13+ years experience programing industrial CNC machines.  
