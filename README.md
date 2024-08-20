@@ -6,7 +6,7 @@ I am looking to build my skills in computer languages and DevOps methodologies m
 This account will archive some of my work to better illustrate my knowledge and skill.  
 See the list below for my self-ratings of what I know so far.
 
-**Currently Learning:**  Java & C++
+**Currently Learning:**  Java & C++  
 **Current Project:** Platformer Game
 
 ## About Me
