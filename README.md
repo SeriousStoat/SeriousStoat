@@ -10,8 +10,8 @@ See the list below for my self-ratings of what I know so far.
 **Current Project:** Platformer Game
 
 ## About Me
-I have 13+ years experience programing industrial CNC machines.  
-I have 15+ years hobby experience with linux and open source software.  
+I've had a career as a cnc programmer and machinist.  
+I have a long history of hobby projects with linux and open source software.  
 I have a growing interest in low-level, performance-focused, languages.  
 I want to learn things that are useful and valuable, no matter how difficult.
 
